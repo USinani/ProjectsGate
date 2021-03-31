@@ -1,8 +1,8 @@
 ---
 title: Projects Gate
 feature_text: |
-  ## Built thanks to Alembic template - A Jekyll boilerplate theme
-feature_image: "https://picsum.photos/1300/400?image=989"
+  ## Welcome
+feature_image: "projectsgate.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects."
 ---
 
