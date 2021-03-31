@@ -1,44 +1,33 @@
 ---
-title: About Alembic
+title: Projects Gate
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Built thanks to Alembic template - A Jekyll boilerplate theme
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+This is my projects blog [Jekyll](https://jekyllrb.com/) projects. Below is my portofolio of projects.
+
+## Projects
+
+- Robotics Software Engineer **Udacity Nanodegree** here **GitHub Repo**
+- Machine Learning Engineer **Udacity Nanodegree**
+- Computer Vision Engineer **Udacity Nanodegree** 
+- Python for Everyone - Charles Severance from [**Coursera**](https://coursera.com/)
+- C language and CPP as course-work()
+- Flying Car and Autonomous Systems Engineer **Udacity Nanodegree** [Formspree](https://Udacity.com)
+- Robotics from Columbia University **[Edx](https://learning.edx.org/course/course-v1:ColumbiaX+CSMM.103x+1T2021/home)**
 
 
-## Features
-
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
-
-## Examples
+## Resume
 
 Here are a few examples of Alembic out in the wild being used in a variety of ways:
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- [usinaniCV.github.io](https://bawejakunal.github.io/)
 
 ## Installation
 
-### Quick setup
+### Tools and resources used
 
 To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
 
@@ -55,7 +44,7 @@ To give you a running start I've put together some starter kits that you can dow
 - ⚗️🚀 Stackbit starter kit  
   [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
 
-### As a Jekyll theme
+### Confiuration
 
 1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
 2. Run the command `bundle install` in the root of project to install the theme and its dependancies
